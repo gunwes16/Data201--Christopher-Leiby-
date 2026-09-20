@@ -99,3 +99,5 @@ for catch in catches:
 Yellow perch are a popular panfish species known for their mild flavor[^1].
 
 [^1]: Panfish are small- to medium-sized fish, typically caught for eating, that are named for being an easy fit in a frying pan.
+
+Markdown-Exercise.md with required formatting elements
